@@ -1,0 +1,17 @@
+arxiv
+chromadb
+deepl
+llamaapi
+langchain
+langchain-experimental
+langsmith
+PyMuPDF
+python-telegram-bot
+pytz
+PyYAML
+regex
+requests
+selenium
+tokenizers
+unstructured
+urllib3
